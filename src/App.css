@@ -1,0 +1,36 @@
+.contactList{
+  display: flex;
+  flex-direction:column;
+  border: 1px solid black;
+  width:200px;
+  height: 150px;
+  margin: 10px;
+  flex-wrap: wrap;
+  
+  }
+  .EditInterface{
+    display: flex;
+      flex-direction: column;
+      width: 200px;
+      border: 1px solid black;
+      margin-left: 40%;
+      margin-top: 5%;
+      text-align: center;
+      height: 200px;
+      
+      align-items: center;
+  }
+  .total{
+    display: flex;
+    justify-content: space-around;
+    width: 1376px;
+    flex-wrap: wrap;
+  
+  }
+  .navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 197px;
+    margin-left: 42%;
+  }
